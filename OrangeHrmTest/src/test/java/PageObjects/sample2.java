@@ -1,9 +1,7 @@
 package PageObjects;
 
-class A{
-	
+public class sample2 {
 	public static void main(String[] args) {
-		System.out.println("This is sample page");
+		System.out.println("new page 2");
 	}
-	
 }
